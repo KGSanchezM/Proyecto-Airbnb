@@ -151,13 +151,13 @@ En el gráfico de dispersión, se puede apreciar que los alojamientos con califi
 
 #### Gráfico de barras
 
-![Gráfica de barras](Imagenes\GraficaBarras.jpg)
+![Gráfica de barras](Imagenes/GraficaBarras.jpg)
 
 En el gráfico de barras, se representan las frecuencias de ocurrencia de diferentes categorías de datos obtenidos de la tabla `listing`. Observamos que la mayoría de los alojamientos son casas completas, no cuentan con el estatus de "Superhost", constan de una habitación y un baño diseñados para una sola persona, y además,  que la identidad del anfitrión aún no ha sido verificada.
 
 #### Gráfico de lineas
 
-![Gráfica de lineas](Imagenes\GraficoLineas.jpg)
+![Gráfica de lineas](Imagenes/GraficoLineas.jpg)
 
 En el gráfico de líneas se presentan dos líneas distintas. La línea azul representa el precio promedio a lo largo del año de los alojamientos disponibles, mientras que la línea roja muestra el precio promedio de los alojamientos que han sido ocupados. Es evidente que los alojamientos que se alquilan tienen un precio promedio inferior a los que no se ocupan. Además, se puede apreciar un incremento gradual en los precios promedio de los alojamientos a lo largo del año.
 
@@ -172,19 +172,19 @@ El dashboard se creó utilizando Power BI y consta de los siguientes elementos:
 - 2 tarjetas
 - 4 filtros
 
-![Gráfica de lineas](Imagenes\Dasboard.png)
+![Gráfica de lineas](Imagenes/Dasboard.png)
 
 
 
 Este gráfico de lineas representa el precio promedio de los alojamientos a lo largo del año, diferenciando entre aquellos que estuvieron disponibles (línea azul) y los que se rentaron (línea roja).
 
 
-![Dashboard lineas](Imagenes\DashboardLineas.png)
+![Dashboard lineas](Imagenes/DashboardLineas.png)
 
 El gráfico de barras apiladas representa el porcentaje de ocupación de los alojamientos a lo largo. Los mayores porcentajes de ocupación se registraron al principio y al final del año.
 
 
-![Dashboard barras apiladas](Imagenes\DashboardBarraApiladas.png)
+![Dashboard barras apiladas](Imagenes/DashboardBarraApiladas.png)
 
 El mapa muestra la ubicación de los alojamientos en la ciudad de Buenos Aires. Se pueden observar zonas con una mayor densidad de puntos, lo que indica una mayor concentración de alojamientos. Cada color en el mapa representa un barrio distinto.
 
@@ -194,15 +194,15 @@ El mapa muestra la ubicación de los alojamientos en la ciudad de Buenos Aires. 
 El gráfico de barras presenta los cinco barrios con el mayor número de alojamientos. Estos barrios son: Palermo, Recoleta, San Nicolás, Retiro y Balvanera.
 
 
-![Dashboard barras barrios](Imagenes\DashboardBarrasBarrios.png)
+![Dashboard barras barrios](Imagenes/DashboardBarrasBarrios.png)
 
 Las tarjetas proporcionan una vista del precio promedio de los alojamientos que se rentaron y de los que no se rentaron.
 
-![Tarjetas](Imagenes\Tarjetas.png)
+![Tarjetas](Imagenes/Tarjetas.png)
 
 Los filtros son elementos interactivos que permiten personalizar la visualización del dashboard. En este caso, se han incorporado cuatro filtros que permiten ajustar la visualización en función de si el host es superhost, el barrio, la calificación de los alojamientos y el tipo de habitación.
 
-![Filtros](Imagenes\DaashboardFiltros.png)
+![Filtros](Imagenes/DaashboardFiltros.png)
 
 
 ## Preguntas
