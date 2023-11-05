@@ -204,6 +204,8 @@ Los filtros son elementos interactivos que permiten personalizar la visualizaci√
 
 ![Filtros](Imagenes/DaashboardFiltros.png)
 
+[Accede al Dashboard](https://drive.google.com/drive/folders/1Ipf0UedZRb7rhFdT-M3POQuIvoh4n2wy?usp=drive_link)
+
 
 ## Preguntas
 
