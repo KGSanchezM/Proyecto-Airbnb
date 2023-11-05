@@ -7,7 +7,7 @@
 
 Para realizar el trabajo práctico se deberá seguir los siguientes pasos:
 
-1. Descargar [archivos](Datsets) con los datos.
+1. Descargar [archivos](https://drive.google.com/drive/folders/13gB8ZVUR66NQLA6G1aN4DpAG0ekeVwB5?usp=drive_link) con los datos.
 
 2. Importar los datos en un la herramienta que deseen utilizar (Power Bi, Python).
 
@@ -32,9 +32,9 @@ Para realizar el trabajo práctico se deberá seguir los siguientes pasos:
 #### Conjuntos de datos
 | Archivo | Descripción |
 | ------ | ----------- |
-| [calendar.csv](Datsets\calendar.csv) | Contiene información sobre las fechas de ocupación del alojamiento y los precios asociados. |
-| [listings.csv](Datsets\listings.csv) | Detalla las características del alojamiento, como su ubicación, el anfitrión, el número de habitaciones, baños, y más. |
-| [reviews.csv](Datsets\reviews.csv) | Contiene las calificaciones que los usuarios han dado a los alojamientos. |
+| [calendar.csv]([Datsets\calendar.csv](https://drive.google.com/file/d/18snrMmPhM318uYQQKbb18zSxFjMF_zP7/view?usp=drive_link)) | Contiene información sobre las fechas de ocupación del alojamiento y los precios asociados. |
+| [listings.csv]([Datsets\listings.csv](https://drive.google.com/file/d/17TQknGYXe_rgYx0MGiFano_rSVF32Cnd/view?usp=drive_link)) | Detalla las características del alojamiento, como su ubicación, el anfitrión, el número de habitaciones, baños, y más. |
+| [reviews.csv]([Datsets\reviews.csv](https://drive.google.com/file/d/1FjCzTPwcvcn3gYZwv2ak8aeAXMB2EdJa/view?usp=drive_link)) | Contiene las calificaciones que los usuarios han dado a los alojamientos. |
 
 
 
