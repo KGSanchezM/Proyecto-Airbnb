@@ -189,7 +189,7 @@ El gráfico de barras apiladas representa el porcentaje de ocupación de los alo
 El mapa muestra la ubicación de los alojamientos en la ciudad de Buenos Aires. Se pueden observar zonas con una mayor densidad de puntos, lo que indica una mayor concentración de alojamientos. Cada color en el mapa representa un barrio distinto.
 
 
-![Dashboard barras apiladas](Imagenes\DashboardMapas.png)
+![Dashboard Mapa](Imagenes/DashboardMapas.png)
 
 El gráfico de barras presenta los cinco barrios con el mayor número de alojamientos. Estos barrios son: Palermo, Recoleta, San Nicolás, Retiro y Balvanera.
 
