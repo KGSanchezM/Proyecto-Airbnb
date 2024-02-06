@@ -1,9 +1,8 @@
-# Proyecto Integrador - Airbnb
+# Airbnb
 
 ![N|Solid](https://piernine.co/wp-content/uploads/elementor/thumbs/Airbnb-red-lrg-1080x675-1-ph818omam1mv695ypg24xjogcbkjrurf7dgvyjglnk.jpeg)
 
- 
-**El objetivo de este trabajo práctico es aplicar los conceptos y técnicas aprendidos en el modulo para realizar un análisis exploratorio y descriptivo de un conjunto de datos reales.**
+ **El objetivo es analizar el negocio de Airbnb en la ciudad de Buenos Aires, Argentina.**
 
 Para realizar el trabajo práctico se deberá seguir los siguientes pasos:
 
